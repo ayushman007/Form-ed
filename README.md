@@ -93,6 +93,6 @@ https://user-images.githubusercontent.com/65186501/131156064-aad86581-6b00-4a93-
     
 ## Feedback
 
-If you have any feedback, please reach out to us at debroyshayan@gmail.com
+
 
   
